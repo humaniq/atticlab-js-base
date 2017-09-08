@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://github.com/humaniq/js-base.git"
+    "url": "http://github.com/humaniq/atticlab-js-base.git"
   },
   "keywords": [
     "stellar"
